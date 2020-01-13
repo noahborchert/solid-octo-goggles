@@ -1,1 +1,1 @@
-# solid-octo-goggles
+# GPA calculator
