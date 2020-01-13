@@ -252,9 +252,11 @@ public class Calc
 
 
 import java.util.Scanner;
+
 /**
  * class for getting input from a user
  */
+ 
 public class UserInput
 {
     /**
