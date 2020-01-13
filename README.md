@@ -1,9 +1,13 @@
 # GPA calculator
 
 import java.io.*;
+
 import java.util.*;
+
 import java.math.RoundingMode;
+
 import java.text.DecimalFormat;
+
 /**
  * This class is used to take input from the user via a scanner class, store and
  * calculate inputs, and tell the user their GPA based on the 7 inputs given
