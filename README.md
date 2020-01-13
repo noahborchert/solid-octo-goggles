@@ -260,11 +260,17 @@ public class UserInput
     /**
      * This scanner enables user to input through text
      */
+     
     public static String getString()
+    
     {
+    
         Scanner input = new Scanner(System.in);
+        
         return input.next();
+        
     }
+    
     
 }
 
